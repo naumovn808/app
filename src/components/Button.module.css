@@ -22,9 +22,9 @@
 }
 
 .accent {
-    background-color:  #fe724c;
+    background-color:  var(--primary-color);
 }
 
 .accent:hover {
-    background-color:  rgb(167, 49, 17)
+    background-color:  var(--primary-hover-color);
 }
