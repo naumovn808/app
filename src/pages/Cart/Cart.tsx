@@ -1,5 +1,7 @@
+import Headling from "../../components/Headling/Headling";
+
 export function Cart() {
     return <>
-        Cart
+        <Headling>Cart</Headling>
     </>
 }
